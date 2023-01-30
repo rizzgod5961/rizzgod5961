@@ -1,5 +1,5 @@
 # Profile
-[![Discord Presence](https://lanyard.cnrad.dev/api/599987931913912320)](https://discord.com/users/599987931913912320)
+[![Discord Presence](https://lanyard.cnrad.dev/api/599987931913912320)(https://discord.com/users/599987931913912320)
 
 # Stats
 
